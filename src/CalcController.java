@@ -3,10 +3,6 @@
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- *
- * @author Chad
- */
 public final class CalcController {
     
     CalcView view;
